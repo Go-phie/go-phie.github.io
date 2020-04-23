@@ -1,15 +1,15 @@
 {
-  "main.css": "/gophie-web/static/css/main.36649015.chunk.css",
-  "main.js": "/gophie-web/static/js/main.6f42c096.chunk.js",
-  "main.js.map": "/gophie-web/static/js/main.6f42c096.chunk.js.map",
-  "runtime~main.js": "/gophie-web/static/js/runtime~main.ea075d67.js",
-  "runtime~main.js.map": "/gophie-web/static/js/runtime~main.ea075d67.js.map",
-  "static/css/2.90034b94.chunk.css": "/gophie-web/static/css/2.90034b94.chunk.css",
-  "static/js/2.0bdaa240.chunk.js": "/gophie-web/static/js/2.0bdaa240.chunk.js",
-  "static/js/2.0bdaa240.chunk.js.map": "/gophie-web/static/js/2.0bdaa240.chunk.js.map",
-  "index.html": "/gophie-web/index.html",
-  "precache-manifest.c745b60f2034a8ef8e286042c9b42a9e.js": "/gophie-web/precache-manifest.c745b60f2034a8ef8e286042c9b42a9e.js",
-  "service-worker.js": "/gophie-web/service-worker.js",
-  "static/css/2.90034b94.chunk.css.map": "/gophie-web/static/css/2.90034b94.chunk.css.map",
-  "static/css/main.36649015.chunk.css.map": "/gophie-web/static/css/main.36649015.chunk.css.map"
+  "main.css": "/static/css/main.36649015.chunk.css",
+  "main.js": "/static/js/main.6278f815.chunk.js",
+  "main.js.map": "/static/js/main.6278f815.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.90034b94.chunk.css": "/static/css/2.90034b94.chunk.css",
+  "static/js/2.19a080d0.chunk.js": "/static/js/2.19a080d0.chunk.js",
+  "static/js/2.19a080d0.chunk.js.map": "/static/js/2.19a080d0.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a1a42660fa5c038d91f2820437fa6146.js": "/precache-manifest.a1a42660fa5c038d91f2820437fa6146.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.90034b94.chunk.css.map": "/static/css/2.90034b94.chunk.css.map",
+  "static/css/main.36649015.chunk.css.map": "/static/css/main.36649015.chunk.css.map"
 }
